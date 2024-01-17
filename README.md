@@ -3,7 +3,7 @@
 
 ## Overview
 
-The SafeCampus project is an application that utilizes MongoDB to manage information related to students, guards, laptops, reports, and tracking activities. The application follows the MVC (Model-View-Controller) architecture and provides the necessary endpoints to interact with the MongoDB database.
+The SafeCampus project is an application that utilizes MongoDB to manage information related to admin, students, guards, laptops, reports, and tracking activities. The application follows the MVC (Model-View-Controller) architecture and provides the necessary endpoints to interact with the MongoDB database.
 
 ## Project Structure
 
@@ -54,7 +54,7 @@ Collaborators involved in the project:
 ## MongoDB Database Details
 
 - Database Name: safeCampus
-- Collections: Student, Guard, Laptop, Report, Track
+- Collections: Admin, Student, Guard, Laptop, Report, Track
 
 ## Getting Started
 
