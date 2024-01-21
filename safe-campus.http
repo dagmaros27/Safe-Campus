@@ -1,6 +1,6 @@
 @safe_campus_HostAddress = http://localhost:5032
 
-GET {{safe_campus_HostAddress}}/
+GET {{safe_campus_HostAddress}}/Laptop
 Accept: application/json
 
 ###

@@ -44,3 +44,4 @@ C:\Users\dagiM\Desktop\safe-campus\obj\Debug\net8.0\refint\safe-campus.dll
 C:\Users\dagiM\Desktop\safe-campus\obj\Debug\net8.0\safe-campus.pdb
 C:\Users\dagiM\Desktop\safe-campus\obj\Debug\net8.0\safe-campus.genruntimeconfig.cache
 C:\Users\dagiM\Desktop\safe-campus\obj\Debug\net8.0\ref\safe-campus.dll
+C:\Users\dagiM\Desktop\safe-campus\obj\Debug\net8.0\safe-campus.sourcelink.json
