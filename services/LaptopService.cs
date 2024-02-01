@@ -21,9 +21,8 @@ public class LaptopService{
 {
     var laptops = await _laptopCollection.Find(_ => true).ToListAsync();
     
-    // Add debug information
+    // for debugging
     Console.WriteLine($"Number of laptops retrieved: {laptops.Count}");
-    
     return laptops;
 }
 

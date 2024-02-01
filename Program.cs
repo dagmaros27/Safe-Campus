@@ -16,7 +16,12 @@ builder.Services.AddControllers()
     .AddJsonOptions(
         options => options.JsonSerializerOptions.PropertyNamingPolicy = null);
 
+
+//registering services
 builder.Services.AddSingleton<LaptopService>();
+builder.Services.AddSingleton<ReportService>();
+builder.Services.AddSingleton<TrackService>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {

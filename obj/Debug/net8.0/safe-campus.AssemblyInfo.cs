@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("safe-campus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cdf92e0c99699e0e074dc1fef643bc33efa15e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77613a9e858b080a007b9b4a24e35ea7af70f59b")]
 [assembly: System.Reflection.AssemblyProductAttribute("safe-campus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("safe-campus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
